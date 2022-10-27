@@ -1,0 +1,24 @@
+Jamie's answers to students' questions:
+
+
+Q. My code is correct but doesn't pass the test because I use a different data structure / print to terminal instead of return / something else.  What should I do?
+
+A. Code that does not pass the tests is by definition not correct code.  
+Code that does pass the tests is not necessarily correct; it's just not incorrect according to the tests.  Write more tests; you're not testing something unless you're really try to break it. 
+ 
+
+Q. Is it assumed that values passed into the functions cadd() and cmult() will follow the format (x,y) where both x and y are integers, e.g.: (1,1),  and not something like (1,4j) or (2,5i)
+
+A. Yes.  That's what the question says:
+
+   For instance,
+    cadd((1,0),(0,1))
+   should compute
+    (1,1).
+
+
+Q. 1A and 1B - it is assumed that the functions are meant to return a value in addition to also computing the value, is this true?
+
+A. You're confusing "printing to terminal" with computation.  Returning a value is done via `return`; printing to terminal is done using `print`.  Computation happens throughout the program.
+
+ 

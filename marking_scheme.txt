@@ -1,0 +1,39 @@
+Python Coursework.  This counts for 40% of your final mark.  
+
+Here's an indicative marking scheme; this is non-binding and may get updated:
+
+Question 1 (complex numbers): 6 marks
+    Question 1a: 3 marks
+    Question 1b: 3 marks
+
+Question 2 (seq): 9 marks
+    Question 2a: 3 marks
+    Question 2b: 3 marks
+    Question 2c: 3 marks
+
+Question 3 (data representation): 10 marks
+
+Question 4 (supermap): 10 marks
+
+Question 5 (fenc): 6 marks
+    fenc: 3 marks
+    fdec: 3 marks
+
+Question 6 (love): 5 marks
+
+Question 7 (removeall): 9 marks
+
+Question 8 (sudan): 5 marks
+
+Question 9 (essay): 10 marks
+
+Question 10 ([], [], []): 5 marks
+
+Question 11 (infinite int): 10 marks
+
+Question 12 (abstract size): 10 marks
+
+Question 13 (equals23): 5 marks
+
+
+Total: 100 marks
